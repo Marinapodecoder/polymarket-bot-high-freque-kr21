@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with quantitative Polymarket Module | market-making + API-integration, the #1 module. Includes market-making and API-integration for a smoother and
 
 
 
